@@ -32,3 +32,7 @@ Before running the script, you need to ensure you have Python installed on your 
 ```
 pip install -r requirements.txt
 ```
+
+## Considerations
+
+There's many alternatives, including 3rd party apps and the built-in MacOS `caffeinate`.
